@@ -1,2 +1,2 @@
 # cc-base
-Base iage for crosscompiling with CLANG/CMAKE
+Base image for crosscompiling with CLANG/CMAKE
